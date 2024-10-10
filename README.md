@@ -38,5 +38,9 @@ Make sure you have the following installed:
    PORT=3000 
 
 
+## EndPoints
+
+1. /stats?coin=bitcoin
+2. /deviation?coin=bitcoin
 
 
